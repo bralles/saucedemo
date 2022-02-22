@@ -26,4 +26,5 @@ git branch -M main
 git push -u origin main
 
 [Creating a venv](https://code.visualstudio.com/docs/python/environments)
+
 [Git commands to clone repo](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
